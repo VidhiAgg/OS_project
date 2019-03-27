@@ -1,0 +1,2 @@
+# OS_project
+In this project we have to establish the concept of Round robin Algorithm . The programming language used in this is C. Basically, Round robin Algorithm is the Algorithm used By operating System in order to execute the execution of the process in a specified time quantum. IF process completes its execution with the specified time it is terminated else add in the queue. The process which are having same time burst in that case process having less burst time is executed first.And in last iteration we executed the program using Shortest Job F
